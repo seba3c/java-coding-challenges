@@ -1,4 +1,4 @@
-# java-coding-challenges
+# Java Coding Challenges
 Compilation of coding challenges implemented in JAVA 8 programming language.
 
 These are my solutions for coding challenges extracted from different sources, including:
